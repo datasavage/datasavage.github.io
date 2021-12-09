@@ -2,19 +2,19 @@
 
 This is the official project repository of the Vienna based data science team DataSavage. 
 
-## Project 1: Interesting Data Analysis
+## Project 1: [Interesting Data Analysis](/projects/project_1.py)
 
 ![](/images/data_analysis_dummy.jpg)
 
 In this project, we look at some data and analyse it in an interesting way.
 
-## Project 2: Machine Learning Application
+## Project 2: [Machine Learning Application](/projects/project_2.py)
 
 ![](/images/machine_learning_dummy.jpg)
 
 In this project, we apply a state of the art machine learning algorithm to a data set to generate predictions. The results surpass everything thought possible.
 
-## Project 3: Autonomous Driving
+## Project 3: [Autonomous Driving](/projects/project_3.py)
 
 ![](/images/autonomous_driving_dummy.jpg)
 
@@ -22,4 +22,4 @@ In this project, we implement an artificial intelligence for autonomous driving.
 
 ### Contact
 
-Are you interested in working with us or do you have a suggestion for any next project? Contact us at datasavage8@gmail.com
+You are interested in a collaboration, have a suggestion or just wan to say hi? Contact us at datasavage8-at-gmail-dot-com
