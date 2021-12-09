@@ -2,19 +2,19 @@
 
 This is the official project repository of the Vienna based data science team DataSavage. 
 
-## Project 1: [Interesting Data Analysis](/projects/dummy_notebook.ipynb)
+## Project 1: Interesting Data Analysis [HTML Link](/projects/dummy_notebook.html) [Markdown Link](/projects/dummy_notebook/dummy_notebook.md)
 
 ![](/images/data_analysis_dummy.jpg)
 
 In this project, we look at some data and analyse it in an interesting way.
 
-## Project 2: [Machine Learning Application](/projects/dummy_notebook.html)
+## Project 2: [Machine Learning Application](/projects/project_2.py)
 
 ![](/images/machine_learning_dummy.jpg)
 
 In this project, we apply a state of the art machine learning algorithm to a data set to generate predictions. The results surpass everything thought possible.
 
-## Project 3: [Autonomous Driving](/projects/dummy_notebook/dummy_notebook.md)
+## Project 3: [Autonomous Driving](/projects/project_3.py)
 
 ![](/images/autonomous_driving_dummy.jpg)
 
