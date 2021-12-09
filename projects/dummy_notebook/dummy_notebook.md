@@ -1,6 +1,6 @@
 # Interesting Data Analysis
 
-![](../images/data_analysis_dummy.jpg)
+![](../../images/data_analysis_dummy.jpg)
 
 
 ```python
