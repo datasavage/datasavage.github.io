@@ -22,4 +22,4 @@ In this project, we implement an artificial intelligence for autonomous driving.
 
 ### Contact
 
-You are interested in a collaboration, have a suggestion or just wan to say hi? Contact us at datasavage8-at-gmail-dot-com
+You are interested in a collaboration, have a suggestion or just want to say hi? Contact us at datasavage8-at-gmail-dot-com
